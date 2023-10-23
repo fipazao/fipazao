@@ -1,5 +1,5 @@
 ### Hi there friends 👋
-#### My name is Olwethu
+#### My name is *Olwethu*
 
 <img 
    src="https://github-readme-stats.vercel.app/api?username=OlwethuFipaza&show_icons=true&theme=tokyonight" 
