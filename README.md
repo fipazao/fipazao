@@ -1,5 +1,6 @@
-### Hi there friends 👋
-#### My name is *Olwethu*
+### Hi, my name is *Olwethu* 🔥
+
+I am currently studying Electrical Engineering and I love to code.
 
 <img 
    src="https://github-readme-stats.vercel.app/api?username=OlwethuFipaza&show_icons=true&theme=tokyonight" 
